@@ -1,0 +1,6 @@
+deb http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy main restricted universe multiverse
+deb-src http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy main restricted universe multiverse
+deb http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy-updates main restricted universe multiverse
+deb-src http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy-updates main restricted universe multiverse
+deb http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy-security main restricted universe multiverse
+deb-src http://mirror.aarnet.edu.au/pub/ubuntu/archive/ jammy-security main restricted universe multiverse
